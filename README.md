@@ -6,6 +6,8 @@ Insertion Sort Projesi
 2. [2, 16, 22, 27, 18, 6]
 3. [2, 16, 18, 22, 27, 6]
 4. [2, 6, 16, 18, 22, 27]
+
+
 Big-O gösterimi: n(n+1)/2 O(n^2)
 
 Time Complexity: 1)Average case: Aradığımız sayının ortada olması. 2)Worst case: Aradığımız sayının sonda olması. 3)Best case: Aradığımız sayının dizinin en başında olması.
